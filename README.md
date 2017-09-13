@@ -1,6 +1,8 @@
 ## Darwin Plant Growth Simulation
 This is a learning exercise in Python in which plants can grow, mutate, and compete for surival in a two-dimensional environment.
 
+![Example Plant Life](darwin2017-09-12_1.png)
+
 * The environment is a 2D grid in which each discete location can be occupied by only one cell
 * Each Plant has a list of cells that try to grow
 * Each cell at the highest point in each column receives energy from light
